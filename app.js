@@ -1,3 +1,4 @@
+//commit teste de Wanderson
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
